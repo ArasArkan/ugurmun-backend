@@ -1,2 +1,2 @@
-## ✨nodejs-template
-_When initiating my node.js backend projects, rather than dealing with file management, the process of cloning this project and continuing with it expedites my workflow. If you find this project useful you can give a star!_
+## 🐍 Uğur MUN'24 Backend
+_I made this project using node.js and firebase to use on the website of the MUN event organised by Izmir Uğur College._
